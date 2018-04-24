@@ -6,3 +6,5 @@ Objectives:
 2. Perform text normalization and do sentiment analysis on the top 3 grossing movie films (source: Box Office Mojo) for each month of 2016.
 3. Apply machine learning technique such as Naïve Bayes while performing sentiment analysis.
 4. Create a simple movie review website that contains all my gathered information.
+
+Link: http://celmoviereview2016.000webhostapp.com/about.html
